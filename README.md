@@ -5,7 +5,7 @@ Spoiler alert! Here you can find my solutions to the daily exercises.
 
 You can also join the challenge at: https://adventofcode.com/
 
-## 2019
+## 2019 Puzzles
 
 | Challenge                                                                        | Status |
 | -------------------------------------------------------------------------------- | :----: |
