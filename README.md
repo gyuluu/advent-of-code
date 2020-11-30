@@ -1,9 +1,15 @@
 # Advent of Code
 
 Advent calendar of small programming puzzles. 
-Spoiler alert! Here you can find my solutions to the daily exercises.
+Here you can find my solutions to the daily challenges.
 
 You can also join the challenge at: https://adventofcode.com/
+
+## 2015 Puzzles
+
+| Challenge                                                                        | Status |
+| -------------------------------------------------------------------------------- | :----: |
+| Day 01: [Not Quite Lisp](http://adventofcode.com/2015/day/1) |  \*\*  |
 
 ## 2019 Puzzles
 
