@@ -22,3 +22,4 @@ You can also join the challenge at: https://adventofcode.com/
 | Challenge                                                                        | Status |
 | -------------------------------------------------------------------------------- | :----: |
 | Day 01: [Report Repair](http://adventofcode.com/2020/day/1) |  \*\*  |
+| Day 02: [Password Philosophy](http://adventofcode.com/2020/day/2) |  \*\*  |
