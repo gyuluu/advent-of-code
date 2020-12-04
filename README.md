@@ -24,3 +24,4 @@ You can also join the challenge at: https://adventofcode.com/
 | Day 01: [Report Repair](http://adventofcode.com/2020/day/1) |  \*\*  |
 | Day 02: [Password Philosophy](http://adventofcode.com/2020/day/2) |  \*\*  |
 | Day 03: [Toboggan Trajectory](http://adventofcode.com/2020/day/3) |  \*\*  |
+| Day 04: [Passport Processing](http://adventofcode.com/2020/day/4) |  \*\*  |
