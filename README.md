@@ -25,3 +25,4 @@ You can also join the challenge at: https://adventofcode.com/
 | Day 02: [Password Philosophy](http://adventofcode.com/2020/day/2) |  \*\*  |
 | Day 03: [Toboggan Trajectory](http://adventofcode.com/2020/day/3) |  \*\*  |
 | Day 04: [Passport Processing](http://adventofcode.com/2020/day/4) |  \*\*  |
+| Day 05: [Binary Boarding](http://adventofcode.com/2020/day/5) |  \*\*  |
