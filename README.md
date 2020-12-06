@@ -26,3 +26,4 @@ You can also join the challenge at: https://adventofcode.com/
 | Day 03: [Toboggan Trajectory](http://adventofcode.com/2020/day/3) |  \*\*  |
 | Day 04: [Passport Processing](http://adventofcode.com/2020/day/4) |  \*\*  |
 | Day 05: [Binary Boarding](http://adventofcode.com/2020/day/5) |  \*\*  |
+| Day 06: [Custom Customs](http://adventofcode.com/2020/day/6) |  \*\*  |
